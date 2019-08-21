@@ -108,3 +108,9 @@ venv.bak/
 *.blg
 
 *.out
+
+*.synctex
+
+*.synctex.gz
+
+*.pptx

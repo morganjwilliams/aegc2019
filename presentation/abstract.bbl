@@ -1,0 +1,94 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Lehnert et~al.(2000)Lehnert, Su, Langmuir, Sarbas, and
+  Nohl}]{Lehnert2000}
+\textbf{Lehnert, K., Su, Y., Langmuir, C., Sarbas, B., and Nohl, U.}
+  (\textbf{2000}).
+\newblock A global geochemical database structure for rocks.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 1(5).
+\newblock ISSN 1525-2027.
+\newblock \doi{10.1029/1999GC000026}.
+
+\bibitem[{Lin et~al.(2007)Lin, Lin, and Weng}]{Lin2007}
+\textbf{Lin, H.T., Lin, C.J., and Weng, R.C.} (\textbf{2007}).
+\newblock A note on {{Platt}}'s probabilistic outputs for support vector
+  machines.
+\newblock \emph{Machine Learning}, 68(3): 267--276.
+\newblock ISSN 1573-0565.
+\newblock \doi{10/ckf84q}.
+
+\bibitem[{McInnes and Healy(2018)}]{McInnes2018}
+\textbf{McInnes, L. and Healy, J.} (\textbf{2018}).
+\newblock {{UMAP}}: {{Uniform Manifold Approximation}} and {{Projection}} for
+  {{Dimension Reduction}}.
+\newblock \emph{arXiv:1802.03426 [cs, stat]}.
+
+\bibitem[{O'Neill(2016)}]{ONeill2016}
+\textbf{O'Neill, H.S.C.} (\textbf{2016}).
+\newblock The {{Smoothness}} and {{Shapes}} of {{Chondrite}}-normalized {{Rare
+  Earth Element Patterns}} in {{Basalts}}.
+\newblock \emph{Journal of Petrology}, 57(8): 1463--1508.
+\newblock ISSN 0022-3530.
+\newblock \doi{10.1093/petrology/egw047}.
+
+\bibitem[{Pearce(2008)}]{Pearce2008}
+\textbf{Pearce, J.A.} (\textbf{2008}).
+\newblock Geochemical fingerprinting of oceanic basalts with applications to
+  ophiolite classification and the search for {{Archean}} oceanic crust.
+\newblock \emph{Lithos}, 100(1): 14 -- 48.
+\newblock ISSN 0024-4937.
+\newblock \doi{10.1016/j.lithos.2007.06.016}.
+
+\bibitem[{Pearce and Cann(1973)}]{Pearce1973}
+\textbf{Pearce, J.A. and Cann, J.R.} (\textbf{1973}).
+\newblock Tectonic setting of basic volcanic rocks determined using trace
+  element analyses.
+\newblock \emph{Earth and Planetary Science Letters}, 19(2): 290--300.
+\newblock ISSN 0012-821X.
+\newblock \doi{10.1016/0012-821X(73)90129-5}.
+
+\bibitem[{Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel,
+  Thirion, Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, and Duchesnay}]{Pedregosa2011}
+\textbf{Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B.,
+  Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V.,
+  Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., and
+  Duchesnay, {\'E}.} (\textbf{2011}).
+\newblock Scikit-learn: {{Machine Learning}} in {{Python}}.
+\newblock \emph{Journal of Machine Learning Research}, 12: 2825--2830.
+\newblock ISSN 1533-7928.
+
+\bibitem[{Petrelli and Perugini(2016)}]{Petrelli2016}
+\textbf{Petrelli, M. and Perugini, D.} (\textbf{2016}).
+\newblock Solving petrological problems through machine learning: The study
+  case of tectonic discrimination using geochemical and isotopic data.
+\newblock \emph{Contributions to Mineralogy and Petrology}, 171(10): 81.
+\newblock ISSN 0010-7999, 1432-0967.
+\newblock \doi{10.1007/s00410-016-1292-2}.
+
+\bibitem[{Platt(2000)}]{Platt2000}
+\textbf{Platt, J.C.} (\textbf{2000}).
+\newblock Probabilistic {{Outputs}} for {{Support Vector Machines}} and
+  {{Comparisons}} to {{Regularized Likelihood Methods}}.
+\newblock In \emph{Advances in {{Large Margin Classifiers}}}, pages 61--74.
+  {MIT Press}.
+
+\bibitem[{Ueki et~al.(2018)Ueki, Hino, and Kuwatani}]{Ueki2018}
+\textbf{Ueki, K., Hino, H., and Kuwatani, T.} (\textbf{2018}).
+\newblock Geochemical {{Discrimination}} and {{Characteristics}} of {{Magmatic
+  Tectonic Settings}}: {{A Machine}}-{{Learning}}-{{Based Approach}}.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 19(4): 1327--1347.
+\newblock ISSN 1525-2027.
+\newblock \doi{10.1029/2017GC007401}.
+
+\bibitem[{Williams(2019)}]{Williams2019}
+\textbf{Williams, M.} (\textbf{2019}).
+\newblock Pyrolite.
+\newblock Http://dx.doi.org/10.5281/zenodo.2545106.
+
+\end{thebibliography}
