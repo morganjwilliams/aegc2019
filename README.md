@@ -20,16 +20,13 @@ Conference:
 
     * [Classifier Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/ClassifierModels.ipynb)
     * [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Dimensionality.ipynb)
-    * [Uncertainty](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Uncertainty.ipynb)
+    * [Performance](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Performance.ipynb)
 
 1. [Visualisation](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis)
 
       * [Manifolds](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Manifolds.ipynb)
       * [Entropy](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Entropy.ipynb)
 
-1. [Building Workflows](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Workflow.ipynb)
-
-1. [Customising Workflows for Applications](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/CustomApplications.ipynb)
-
+1. [Building Workflows](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/BuildingWorkflows.ipynb)
 
 **Maintainer**: Morgan Williams (morgan.williams _at_ csiro.au)
