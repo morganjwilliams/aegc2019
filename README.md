@@ -13,7 +13,7 @@ This is a Binder-enabled repository to accompany [a poster for the 2019 Australa
 
 **Data:** [Sources](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Sources.ipynb) | [Compositional Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/CompositionalData.ipynb) | [Lambdas](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Lambdas.ipynb)
 <br>
-**Classifiers:** [Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/tree/aegc2019/notebooks/Classifiers/ClassifierModels.ipynb) | [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Dimensionality.ipynb) | [Performance](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Performance.ipynb)
+**Classifiers:** [Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/aegc2019/notebooks/Classifiers/ClassifierModels.ipynb) | [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Dimensionality.ipynb) | [Performance](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Performance.ipynb)
 <br>
 **Visualisation:** [Entropy](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Entropy.ipynb) | [Manifolds](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Manifolds.ipynb)
 <br>
