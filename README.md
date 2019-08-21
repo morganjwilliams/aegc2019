@@ -7,26 +7,18 @@ A repository to accompany a poster for the 2019 Australasian Exploration Geoscie
 Conference:
 [Multivariate Geochemical Tectonic Discrimination: Practical Approaches, Limitations and Opportunities](https://github.com/morganjwilliams/aegc2019/blob/develop/presentation/abstract.pdf)
 
+----
 
-### Contents
+#### Contents
 
-1. [Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data)
+**Data:** [Sources](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Sources.ipynb) | [Compositional Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/CompositionalData.ipynb) | [Lambdas](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Lambdas.ipynb)
+<br>
+**Classifiers:** [Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/ClassifierModels.ipynb) | [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Dimensionality.ipynb) | [Performance](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Performance.ipynb)
+<br>
+**Visualisation:** [Entropy](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Entropy.ipynb) | [Manifolds](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Manifolds.ipynb)
+<br>
+**Workflows:** [Building Workflows](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/BuildingWorkflows.ipynb)
 
-    * [Data Sources](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Sources.ipynb)
-    * [Compositional Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/CompositionalData.ipynb)
-    * [Lambdas: Compressing REE](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Lambdas.ipynb)
-
-1. [Classifiers](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers)
-
-    * [Classifier Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/ClassifierModels.ipynb)
-    * [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Dimensionality.ipynb)
-    * [Performance](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Performance.ipynb)
-
-1. [Visualisation](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis)
-
-      * [Manifolds](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Manifolds.ipynb)
-      * [Entropy](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Entropy.ipynb)
-
-1. [Building Workflows](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/BuildingWorkflows.ipynb)
+----
 
 **Maintainer**: Morgan Williams (morgan.williams _at_ csiro.au)
