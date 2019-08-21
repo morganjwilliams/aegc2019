@@ -15,7 +15,7 @@ Conference:
 
     * [Data Sources](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Sources.ipynb)
     * [Compositional Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/CompositionalData.ipynb)
-    * [Lambdas: Compressing REE](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/CompositionalData.ipynb)
+    * [Lambdas: Compressing REE](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Lambdas.ipynb)
 
 1. [Classifiers](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers)
 
