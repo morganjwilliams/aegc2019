@@ -8,7 +8,6 @@ Conference:
 [Multivariate Geochemical Tectonic Discrimination: Practical Approaches, Limitations and Opportunities](https://github.com/morganjwilliams/aegc2019/blob/develop/presentation/abstract.pdf)
 
 
-
 ### Contents
 
 1. [Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data)
@@ -20,16 +19,13 @@ Conference:
 1. [Classifiers](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers)
 
     * [Classifier Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/ClassifierModels.ipynb)
+    * [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Dimensionality.ipynb)
+    * [Uncertainty](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Uncertainty.ipynb)
 
 1. [Visualisation](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis)
 
       * [Manifolds](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Manifolds.ipynb)
       * [Entropy](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Entropy.ipynb)
-
-1. [Limits to Discrimination](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Limits)
-
-      * [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Limits/Dimensionality.ipynb)
-      * [Uncertainty](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Limits/Uncertainty.ipynb)
 
 1. [Building Workflows](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Workflow.ipynb)
 
