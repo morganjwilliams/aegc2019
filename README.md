@@ -5,7 +5,7 @@
 
 Classical geochemical classification methods are human-centric, and commonly limited by the ability to visualise data. Modern approaches using machine classification are enabled by large public data repositories, and can be used to provide more objective perspectives and to investigate classification uncertainty.
 
-This is Binder-enabled repository to accompany [a poster for the 2019 Australasian Exploration Geoscience Conference](https://github.com/morganjwilliams/aegc2019/blob/develop/presentation/abstract.pdf), which covers many of the key elements required to construct classifiers using geochemical data and open-source tools ([scikit-learn](scikit-learn.org/stable) and [pyrolite](https://github.com/morganjwilliams/pyrolite)).
+This is a Binder-enabled repository to accompany [a poster for the 2019 Australasian Exploration Geoscience Conference](https://github.com/morganjwilliams/aegc2019/blob/develop/presentation/abstract.pdf), which covers many of the key elements required to construct classifiers using geochemical data and open-source tools ([scikit-learn](scikit-learn.org/stable) and [pyrolite](https://github.com/morganjwilliams/pyrolite)).
 
 ----
 
@@ -13,7 +13,7 @@ This is Binder-enabled repository to accompany [a poster for the 2019 Australasi
 
 **Data:** [Sources](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Sources.ipynb) | [Compositional Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/CompositionalData.ipynb) | [Lambdas](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Data/Lambdas.ipynb)
 <br>
-**Classifiers:** [Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/ClassifierModels.ipynb) | [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Dimensionality.ipynb) | [Performance](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Performance.ipynb)
+**Classifiers:** [Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/aegc2019/notebooks/Classifiers/ClassifierModels.ipynb) | [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Dimensionality.ipynb) | [Performance](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Classifiers/Performance.ipynb)
 <br>
 **Visualisation:** [Entropy](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Entropy.ipynb) | [Manifolds](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?urlpath=nteract/tree/aegc2019/notebooks/Vis/Manifolds.ipynb)
 <br>

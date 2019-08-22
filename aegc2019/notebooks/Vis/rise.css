@@ -1,0 +1,30 @@
+body.rise-enabled div.inner_cell {
+    font-size: 60%;
+}
+
+body.rise-enabled div.output_subarea{
+    font-size: 60%;
+}
+
+.rise-enabled .rendered_html table.dataframe {
+    font-size: 14px;
+}
+.rendered_html code {
+    background: #EFEFEF;
+    border: 1px solid #CCC;
+    padding: 1px 5px;
+    border-radius: 1px;
+}
+.rise-enabled .fa-times-circle:before,
+.rise-enabled .fa-question:before,
+.rise-enabled aside.controls {
+    opacity: 0.1;
+}
+.rise-enabled a,
+.rise-enabled a:active,
+.rise-enabled a:hover,
+.rise-enabled a:visited,
+.rise-enabled :link {
+    text-decoration: none;
+    color: #A68910;
+}
