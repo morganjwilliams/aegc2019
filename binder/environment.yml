@@ -10,3 +10,4 @@ dependencies:
   - pip:
       - pyrolite[skl]
       - rise
+      - jupyter_contrib_nbextensions
