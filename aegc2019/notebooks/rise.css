@@ -1,13 +1,5 @@
 body.rise-enabled div.inner_cell {
-  font-size: 40%;
-}
-
-body.rise-enabled div.output_subarea {
-  font-size: 40%;
-}
-
-body.rise-enabled .rendered_html table.dataframe {
-  font-size: 14px;
+  font-size: 100%;
 }
 
 .rendered_html code {

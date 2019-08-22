@@ -4,3 +4,4 @@ jupyter-nbextension enable rise --py
 
 mkdir ~/.jupyter/custom
 cp aegc2019/notebooks/rise.css ~/.jupyter/custom/custom.css
+cp aegc2019/notebooks/rise.js ~/.jupyter/custom/custom.js
