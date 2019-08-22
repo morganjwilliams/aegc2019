@@ -7,5 +7,10 @@ console.log(window.mobilecheck())
 
 if(window.mobilecheck())
 {
-     document.getElementsByClassName("body rise-enabled").style.fontSize = "40%";
+  var elements = document.getElementsByClassName("body rise-enabled");
+
+  for (var i = 0; i < elements.length; i++) {
+    var element = elements[i];
+    element.style.fontSize = "40%";
+  }
 }
