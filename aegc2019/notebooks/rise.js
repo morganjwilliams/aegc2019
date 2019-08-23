@@ -5,11 +5,12 @@ window.mobilecheck = function() {
 };
 console.log(window.mobilecheck())
 
-var nb = document.getElementById("notebook-container");
+var nb = document.getElementById("notebook");
 
 if(window.mobilecheck())
 {
   nb.style.fontSize = "60%";
+  nb.style.width = '80%'; // for scrollbar + mobiles with curved edge screens
 } else {
   nb.style.fontSize = "100%";
 }
