@@ -5,12 +5,11 @@ window.mobilecheck = function() {
 };
 console.log(window.mobilecheck())
 
+var nb = document.getElementById("notebook-container");
+
 if(window.mobilecheck())
 {
-  var elements = document.getElementsByClassName("body rise-enabled");
-
-  for (var i = 0; i < elements.length; i++) {
-    var element = elements[i];
-    element.style.fontSize = "40%";
-  }
+  nb.style.fontSize = "60%";
+} else {
+  nb.style.fontSize = "100%";
 }
