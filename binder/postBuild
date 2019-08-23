@@ -1,7 +1,7 @@
-jupyter contrib nbextension install
+# jupyter contrib nbextension install
 jupyter-nbextension install rise --py
 jupyter-nbextension enable rise --py
 
 mkdir ~/.jupyter/custom
-cp aegc2019/notebooks/rise.css ~/.jupyter/custom/custom.css
-cp aegc2019/notebooks/rise.js ~/.jupyter/custom/custom.js
+cp ./rise.css ~/.jupyter/custom/custom.css
+cp ./rise.js ~/.jupyter/custom/custom.js

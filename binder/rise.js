@@ -11,6 +11,7 @@ if(window.mobilecheck())
 {
   nb.style.fontSize = "60%";
   nb.style.width = '80%'; // for scrollbar + mobiles with curved edge screens
+  // Could also iterate through class='cell' and set widths
 } else {
   nb.style.fontSize = "100%";
 }
