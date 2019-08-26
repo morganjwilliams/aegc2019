@@ -7,6 +7,10 @@ Classical geochemical classification methods are human-centric, and commonly lim
 
 This is a Binder-enabled repository to accompany [a poster for the 2019 Australasian Exploration Geoscience Conference](https://github.com/morganjwilliams/aegc2019/blob/develop/presentation/abstract.pdf), which covers many of the key elements required to construct classifiers using geochemical data and open-source tools ([scikit-learn](scikit-learn.org/stable) and [pyrolite](https://github.com/morganjwilliams/pyrolite)).
 
+<div class="alert alert-info" role="alert">
+Drop by my poster at AEGC to discuss during or after lunch on Wednesday 4<sup>th</sup> September, or contact me via one of the channels listed below.
+</div>
+
 ----
 
 #### Contents
@@ -21,4 +25,8 @@ This is a Binder-enabled repository to accompany [a poster for the 2019 Australa
 
 ----
 
-**Maintainer**: Morgan Williams (morgan.williams _at_ csiro.au)
+**Maintainer**:
+
+Morgan Williams (morgan.williams _at_ csiro.au) [![Twitter][1]](https://www.twitter.com/metasomite)
+
+[1]: http://i.imgur.com/tXSoThF.png (@metasomite on Twitter)
