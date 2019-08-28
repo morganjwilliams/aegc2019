@@ -14,4 +14,5 @@ if(window.mobilecheck())
   // Could also iterate through class='cell' and set widths
 } else {
   nb.style.fontSize = "100%";
+  nb.style.width = '90%';
 }
