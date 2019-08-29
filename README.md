@@ -22,10 +22,12 @@ This is a Binder-enabled repository to accompany [a poster for the 2019 Australa
 **Visualisation:** [Entropy](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/4_Vis_Entropy.ipynb) | [Manifolds](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/4_Vis_Manifolds.ipynb)
 <br>
 **Workflows:** [Building Workflows](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/5_BuildingWorkflows.ipynb)
+<br>
 **pyrolite:** [Overview](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/6_pyrolite.ipynb)
+
 ----
 
-**Maintainer**:
+**Maintainer:**
 
 Morgan Williams (morgan.williams _at_ csiro.au) [![Twitter][1]](https://www.twitter.com/metasomite)
 
