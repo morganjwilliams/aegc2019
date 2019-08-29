@@ -26,7 +26,7 @@ bg = "white"
 # %% binder
 # https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/1_StartHere.ipynb
 generateQR(
-    "binder", "https://tinyurl.com/aegc19MWlive", fill_color="#eda25a", back_color=bg
+    "binder", "https://tinyurl.com/aegc19MWlive", fill_color="#E27B19", back_color=bg
 )
 # %% github
 # https://github.com/morganjwilliams/aegc2019
