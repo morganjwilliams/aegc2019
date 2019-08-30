@@ -7,6 +7,7 @@ channels:
 dependencies:
   - python=3.7
   - pip
+  - matplotlib=3.0.3
   - pip:
       - rise
       - jupyter_contrib_nbextensions
