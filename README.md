@@ -7,7 +7,7 @@
 
 Classical geochemical classification methods are human-centric, and commonly limited by the ability to visualise data. Modern approaches using machine classification are enabled by large public data repositories, and can be used to provide more objective perspectives and to investigate classification uncertainty.
 
-This is a Binder-enabled repository to accompany [a poster for the 2019 Australasian Exploration Geoscience Conference](https://github.com/morganjwilliams/aegc2019/raw/develop/presentation/WilliamsAEGC2019Poster.pdf), which covers many of the key elements required to construct classifiers using geochemical data and open-source tools ([scikit-learn](scikit-learn.org/stable) and [pyrolite](https://github.com/morganjwilliams/pyrolite)). You can find the accompanying extended abstract [here](https://github.com/morganjwilliams/aegc2019/raw/develop/presentation/abstract.pdf)
+This is a Binder-enabled repository to accompany [a poster for the 2019 Australasian Exploration Geoscience Conference](https://github.com/morganjwilliams/aegc2019/raw/develop/presentation/WilliamsAEGC2019Poster.pdf), which covers many of the key elements required to construct classifiers using geochemical data and open-source tools ([scikit-learn](scikit-learn.org/stable) and [pyrolite](https://github.com/morganjwilliams/pyrolite)). You can find the accompanying extended abstract [here](https://github.com/morganjwilliams/aegc2019/raw/develop/presentation/abstract.pdf).
 
 ---
 
