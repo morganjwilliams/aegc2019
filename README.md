@@ -15,13 +15,11 @@ This is a Binder-enabled repository to accompany [a poster for the 2019 Australa
 
 **Start Here:** [Intro](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/1_StartHere.ipynb)
 <br>
-**Data:** [Sources](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/2_Data_Sources.ipynb) | [Compositional Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/2_Data_CompositionalData.ipynb) | [Lambdas](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/2_Data_Lambdas.ipynb)
+**Data:** [Compositional Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/2_Data_CompositionalData.ipynb) | [Lambdas](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/2_Data_Lambdas.ipynb)
 <br>
-**Classifiers:** [Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/3_Classifiers_ClassifierModels.ipynb) | [Dimensionality](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/3_Classifiers_Dimensionality.ipynb) | [Performance](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/3_Classifiers_Performance.ipynb)
+**Classifiers:** [Building Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/3_Classifiers_ClassifierModels.ipynb) | [Feature Selection](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/3_Classifiers_Dimensionality.ipynb)
 <br>
 **Visualisation:** [Entropy](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/4_Vis_Entropy.ipynb) | [Manifolds](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/4_Vis_Manifolds.ipynb)
-<br>
-**Workflows:** [Building Workflows](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/5_BuildingWorkflows.ipynb)
 <br>
 **pyrolite:** [Overview](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/6_pyrolite.ipynb)
 
