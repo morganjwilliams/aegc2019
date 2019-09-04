@@ -18,7 +18,7 @@ This is a Binder-enabled repository to accompany [a poster for the 2019 Australa
 <br>
 **Data:** [Compositional Data](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/2_Data_CompositionalData.ipynb) | [Lambdas](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/2_Data_Lambdas.ipynb)
 <br>
-**Classifiers:** [Building Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/3_Classifiers_ClassifierModels.ipynb) | [Feature Selection](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/3_Classifiers_Dimensionality.ipynb)
+**Classifiers:** [Building Models](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/3_Classifiers_ClassifierModels.ipynb) | [Feature Selection](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/3_Classifiers_Features.ipynb)
 <br>
 **Visualisation:** [Entropy](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/4_Vis_Entropy.ipynb) | [Manifolds](https://mybinder.org/v2/gh/morganjwilliams/aegc2019/develop?filepath=/notebooks/4_Vis_Manifolds.ipynb)
 <br>
