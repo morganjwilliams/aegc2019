@@ -1,6 +1,10 @@
 # jupyter contrib nbextension install
 # jupyter-nbextension install rise --py
+
 jupyter-nbextension enable rise --py
+
+# the following is required for ipyvolume widgets
+jupyter-nbextension enable widgetsnbextension --py
 
 # jupyter labextension install @jupyter-widgets/jupyterlab-manager
 # jupyter labextension install jupyter-matplotlib
