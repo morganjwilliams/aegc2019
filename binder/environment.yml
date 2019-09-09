@@ -12,6 +12,7 @@ dependencies:
   - ipympl
   - ipyvolume
   - widgetsnbextension
+  - imagemagick
   - pip:
       - rise
       - jupyter_contrib_nbextensions
